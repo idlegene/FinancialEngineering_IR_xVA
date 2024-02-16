@@ -1,4 +1,4 @@
-# Financial Engineering Course
+## Financial Engineering Course
 Here you will find materials for the course of "Financial Engineering: Interest rates & xVA"
 
 YouTube lectures you can find at:
